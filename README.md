@@ -257,5 +257,3 @@ Then restart and retry.
 > 📌 **Golden Rule:** Never rely on `python` or `python3` globally on Windows. Always use `py -3.x` or work inside an activated venv for reliable, version-specific behavior.
 
 ---
-
-*Guide based on a real troubleshooting session — Windows 11, VS Code, Python 3.10 & 3.14, CausalNex / PyTorch stack.*
